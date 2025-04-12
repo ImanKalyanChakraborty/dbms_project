@@ -34,7 +34,7 @@ Anik Barury : Reg Number - 871
 
 7. Open a new terminal window and write the following commands for starting up the frontend
 
-    `cd railway_reservation_system`
+    `cd railway_reservation_system/railway_reservation_system`
 
     `python frontend.py`
 
