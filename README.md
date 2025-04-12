@@ -3,7 +3,8 @@
 ## Project Members
 
 Iman Kalyan Chakraborty : Reg Number - 901
-\nAnik Barury : Reg Number - 871
+
+Anik Barury : Reg Number - 871
 
 ## Video Demo
 
@@ -26,12 +27,15 @@ Iman Kalyan Chakraborty : Reg Number - 901
 5. Run the following 3 commands to prepare the django backend
 
     `python manage.py makemigrations railway_reservation_system`
-    \n`python manage.py migrate`
-    \n`python manage.py runserver`
 
-6. Open a new terminal window and write the following commands for starting up the frontend
+    `python manage.py migrate`
+
+    `python manage.py runserver`
+
+7. Open a new terminal window and write the following commands for starting up the frontend
 
     `cd railway_reservation_system`
-    \n`python frontend.py`
 
-7. Status of all of the tables can be viewed through the Django admin console
+    `python frontend.py`
+
+9. Status of all of the tables can be viewed through the Django admin console
