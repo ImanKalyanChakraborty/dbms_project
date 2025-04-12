@@ -8,10 +8,7 @@ Anik Barury : Reg Number - 871
 
 ## Video Demo
 
-<video width="320" height="240" controls>
-  <source src="video_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click to watch Demo](https://drive.google.com/file/d/1uUG1SB6_3hg-s6OQ9_YHCZGh5lqmsEPY/view?usp=sharing)
 
 ## Instructions for Running it Locally
 
